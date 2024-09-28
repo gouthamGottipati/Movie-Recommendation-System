@@ -1,4 +1,4 @@
-# Simple Movie Recommendation System
+# Movie Recommendation System
 
 ## Objective
 This project creates a simple movie recommendation system using collaborative filtering based on user ratings. The system predicts how much a user might like a movie they haven't seen by finding similar users.
